@@ -10,4 +10,4 @@
 * _9:00 - 9:30 ~ Working on treehouse react course to help solidify my knowledge before starting this project_
 * _9:30 - 11:30 ~ Met with Owner about what he would like and how he would like it layed out and started to draw it out with him_
 * _11:30 - 12:30 ~ Fix my computers problem and Create project and push initial status to git hub._
-* __
+* _12:30 - 1:30 ~ Lunch_
