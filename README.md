@@ -13,3 +13,4 @@
 * _12:30 - 1:30 ~ Lunch_
 * _1:30 - 2:00 ~ update files and delete ones that are not needed to my master_
 * _2:00 - 2:30 ~ Continue working on my basic setup for my project_
+* _2:30 - 3:00 ~ Continue working on my basic setup for my project_
