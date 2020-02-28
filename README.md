@@ -12,3 +12,4 @@
 * _11:30 - 12:30 ~ Fix my computers problem and Create project and push initial status to git hub._
 * _12:30 - 1:30 ~ Lunch_
 * _1:30 - 2:00 ~ update files and delete ones that are not needed to my master_
+* _2:00 - 2:30 ~ Continue working on my basic setup for my project_
