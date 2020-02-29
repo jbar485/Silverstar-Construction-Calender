@@ -4,6 +4,8 @@
 
 #### By _**Judah Barton**_
 
+![diagram picture](diagram.png)
+
 ## Description
 
 * _8:00 - 9:00 ~ Trying to figure out why create-react-app wont work and nothing will push to github_
